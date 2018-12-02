@@ -1,0 +1,8 @@
+model/
+*.mat
+tutorial/
+stderr.*
+__pycache__/
+*.slurm
+*.pth
+*.log
